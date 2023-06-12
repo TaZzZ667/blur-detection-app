@@ -1,3 +1,5 @@
+DESMEDT NATHAN EPSI LILLE
+
 <img src="https://github.com/Furkan-Gulsen/Blur-Detection-Web-App/blob/master/BlurDetection.gif" />
 
 # Blur-Detection-Web-App
